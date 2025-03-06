@@ -1,0 +1,6 @@
+public key - P8VcQknVmGdKNNpWXtt1wMMO0ZKr1rTD
+API secret key - HZ3EmTcnDYpwwpANcr28Bv9nw2E6KeenV2rXVJjYvGvYiGQPuyeFzDtMJXFtdTCj
+
+Bitmex
+public key - ABjJHe7MqLyfXCNFcQ3KNxdl
+API secret key- ur27aM3RGD0hDfiE5LzDyvjgTzi9_2mAt3REqKDFdIxXuI51
